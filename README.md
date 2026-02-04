@@ -1,4 +1,4 @@
-#  Sales Performance Analytics Dashboard (Power BI)
+#  Sales Performance Analytics Dashboard (Power BI) 
 
 <img src="images/overview.png" width="900">
 

@@ -1,6 +1,6 @@
 #  Sales Performance Analytics Dashboard (Power BI) 
 
-<img src="[images/overview.png](https://raw.githubusercontent.com/gaml8467-source/Sales-Analytics-Dashboard-Power-BI-/refs/heads/main/powerbi_%20sales/image/Sales%20%26%20Product%20Analysis.png)" width="900">
+<img src="https://raw.githubusercontent.com/gaml8467-source/Sales-Analytics-Dashboard-Power-BI-/refs/heads/main/powerbi_%20sales/image/Sales%20%26%20Product%20Analysis.png" width="900">
 
 ##  Project Overview
 This project presents an interactive **Sales Performance Analytics Dashboard** built using **Power BI** to monitor and analyze business sales performance across products, countries, and customer segments.

@@ -138,7 +138,7 @@ Deep dive into profitability and cost structure.
 <img src="https://raw.githubusercontent.com/gaml8467-source/Sales-Analytics-Dashboard-Power-BI-/refs/heads/main/powerbi_%20sales/image/home.png" width="800">
 
 ### Overview
-<img src="images/overview.png" width="800">
+<img src="https://raw.githubusercontent.com/gaml8467-source/Sales-Analytics-Dashboard-Power-BI-/refs/heads/main/powerbi_%20sales/image/overview.png" width="800">
 
 ### Sales & Product Analysis
 <img src="images/products.png" width="800">
